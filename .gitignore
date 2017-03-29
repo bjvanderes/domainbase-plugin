@@ -3,3 +3,6 @@
 domainbase-plugin.iml
 lib/*
 out/
+.gradle/
+domainbase-plugin.zip
+lib/
